@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section solution
 
-![Design preview for the Social proof section coding challenge](https://raw.githubusercontent.com/nurularifin83/Testimonials-grid-section/main/assets/images/Screenshot%20from%202024-02-03%2020-48-51.png)
+![Design preview for the Social proof section coding challenge](https://raw.githubusercontent.com/nurularifin83/Social-proof-section/main/social-proof-section-master.png)
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
