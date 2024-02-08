@@ -19,7 +19,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Live Site URL: [Live site URL here](https://nurularifin83.github.io/Social-proof-section/)
 
 ## My process
 
@@ -30,7 +30,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### What I learned
 
-I learn about grid, variable, background-image, background-repeat, background-position, and mobile responsive.
+I learn about display: grid, variable, display: flex, and mobile responsive.
 
 ### Useful resources
 
